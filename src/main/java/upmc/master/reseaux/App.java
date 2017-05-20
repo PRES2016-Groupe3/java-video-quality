@@ -109,7 +109,7 @@ public class App {
 
 		options.addOption(d);
 
-		formatter.setSyntaxPrefix(System.lineSeparator() + "Syntaxe : ");
+		formatter.setSyntaxPrefix(System.lineSeparator() + "Syntax: ");
 
 		CommandLine line;
 		try {
